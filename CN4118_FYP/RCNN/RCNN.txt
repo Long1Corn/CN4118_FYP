@@ -1,0 +1,2 @@
+http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/
+https://github.com/jwyang/faster-rcnn.pytorch
